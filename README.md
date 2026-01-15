@@ -10,6 +10,14 @@ Web Developer | Full Stack | AI Enthusiast
   </span>
 </h2>
 
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=4FC3F7&vCenter=true&width=500&lines=Web+Developer;Full+Stack;AI+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack;AI+Enthusiast" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
