@@ -5,8 +5,9 @@ Web Developer | Full Stack | AI Enthusiast
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com size=28&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Web+Developer;Full+Stack;AI+Enthusiast;Frontend+Developer" />
 </p>
+
 
 ---
 
