@@ -4,9 +4,11 @@ Web Developer | Full Stack | AI Enthusiast
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1d4ed8&height=90&section=header&text=AI%20Enthusiast&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h2 align="center">
+  <span style="color:#4FC3F7; font-family: monospace;">
+    AI Enthusiast
+  </span>
+</h2>
 
 ---
 
