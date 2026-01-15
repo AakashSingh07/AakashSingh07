@@ -2,11 +2,13 @@
 
 Web Developer | Full Stack | AI Enthusiast
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1d4ed8&height=90&section=header&text=AI%20Enthusiast&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h2 align="center">MERN Stack Engineer</h2>
-
-
+---
 
 ## 👨‍💻 About Me
 
@@ -20,12 +22,10 @@ Web Developer | Full Stack | AI Enthusiast
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/aakashkumarsingh007/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-2D72B8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/aakashkumarsingh007/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="mailto:aakashkumarsingh2001@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:aakashkumarsingh2001@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
