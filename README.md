@@ -19,14 +19,6 @@ Web Developer | Full Stack | AI Enthusiast
 
 ---
 
-## 🛠️ Skills
-✅ HTML | CSS | JavaScript  
-✅ Web Development  
-✅ Python  
-✅ Git & GitHub  
-
----
-
 ## 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/aakashkumarsingh007/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
