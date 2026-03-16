@@ -81,19 +81,20 @@
 
 <p align="center">
   <img 
-    width="420"
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=AakashSingh07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
   />
   
   <img 
-    width="350"
+    width="320"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashSingh07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AakashSingh07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    width="450"
+    src="https://streak-stats.demolab.com/?user=AakashSingh07&theme=tokyonight&hide_border=true"
   />
 </p>
 
