@@ -8,10 +8,7 @@
 
 <!-- ===================== TYPING EFFECT ===================== -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=540&lines=MCA+Artificial+Intelligence+Student+🧠;Full+Stack+Web+Developer+🚀;HTML+CSS+JavaScript+Developer;Learning+MERN+Stack;Building+Real+World+Projects"
-    alt="Typing SVG"
-  />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=MCA+Artificial+Intelligence+Student;Full+Stack+Web+Developer;HTML+CSS+JavaScript+Developer;Learning+MERN+Stack;Building+Real+World+Projects"/>
 </p>
 
 ---
